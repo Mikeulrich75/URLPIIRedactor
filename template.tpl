@@ -9,7 +9,7 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "URL - PII Redactor Final",
+  "displayName": "URL - PII Redactor",
   "description": "Redact all emails and any listed parameters and their values from your URL or pathname. Avoid PII violations by cleaning up your URLs before sending them to analytics or other 3rd party platforms.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",

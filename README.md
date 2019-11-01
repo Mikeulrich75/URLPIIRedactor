@@ -14,5 +14,5 @@ When you add the URL or pathname string vaiable you would like to clean up, you 
 
 Important: Please know the exact parameters you want to redact before you use this variable. 
 
-Example: 
-IMAGE HERE
+Example: Successful PII Email and Parameter Test
+![Successful PII Email and Parameter Test](https://user-images.githubusercontent.com/53228114/68053195-595e1c80-fcb9-11e9-823e-8a2801b010d3.png)

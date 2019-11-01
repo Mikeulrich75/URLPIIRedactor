@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 homepage: "https://www.wpromote.com"
-documentation: ""
+documentation: "https://github.com/Mikeulrich75/URLPIIRedactor/blob/master/README.md"
 versions:
   - sha: undefined
     changeNotes: Initial Version

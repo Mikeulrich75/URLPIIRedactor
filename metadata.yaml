@@ -14,5 +14,5 @@
 homepage: "https://www.wpromote.com"
 documentation: "https://github.com/Mikeulrich75/URLPIIRedactor/blob/master/README.md"
 versions:
-  - sha: undefined
+  - sha: a62c3d826115cb0c1a12880ea72b2206ef369c9f
     changeNotes: Initial Version

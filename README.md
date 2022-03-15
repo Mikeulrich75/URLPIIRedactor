@@ -2,7 +2,7 @@
 Redact all emails and any listed parameters and their values from your URL or pathname string. Avoid PII violations by cleaning up your URLs before sending them to your analytics or other 3rd party platforms.
 
 # Author
-Michael Ulrich (https://www.wpromote.com/).
+Michael Ulrich
 
 # Release Notes
 | Date | Notes |

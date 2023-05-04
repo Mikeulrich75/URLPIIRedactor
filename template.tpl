@@ -65,7 +65,7 @@ const paramRegexArray = [];
 const emailRedaction = data.emailRedaction;
 let url = URL;
 if (emailRedaction) {
-    const emailRegEx = '[aA-zZ0-9._]+@[aA-zZ0-9.-]+.[aA-zZ][&?]|[aA-zZ0-9._]+@[aA-zZ0-9.-]+.[aA-zZ]';
+    const emailRegEx = '[aA-zZ0-9._]+(@|%40)[aA-zZ0-9.-]+.[aA-zZ][&?]|[aA-zZ0-9._]+@[aA-zZ0-9.-]+.[aA-zZ]';
     let flag = false;
     let matched = url.match(emailRegEx) ? url.match(emailRegEx) : undefined;
     let index = matched ? matched.index : undefined;

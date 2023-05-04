@@ -11,8 +11,12 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-homepage: "https://www.wpromote.com"
+homepage: "https://github.com/Mikeulrich75"
 documentation: "https://github.com/Mikeulrich75/URLPIIRedactor/blob/master/README.md"
 versions:
+  # Latest version
+  - sha: 2ec904f1b6606f581cfe35ffa1f9ab6906f4296e
+    changeNotes: fixed a bug where special characters %40 are present in an email instead of @.
+  # Older versions
   - sha: a62c3d826115cb0c1a12880ea72b2206ef369c9f
-    changeNotes: Initial Version
+    changeNotes: Initial Version.
